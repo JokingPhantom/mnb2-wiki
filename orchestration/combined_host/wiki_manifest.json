@@ -1,0 +1,1209 @@
+{
+  "schema": 1,
+  "pages": [
+    {
+      "wiki": "player",
+      "slug": "aa-cannon",
+      "source": "research/mnb2/wiki/player/aa-cannon.md",
+      "sha256": "90b7075b43164914b3463378d0eb3be2d9840ea4bc2f8ce16e8307babeb213a4",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "advancing",
+      "source": "research/mnb2/wiki/player/advancing.md",
+      "sha256": "d67e29b0687f74652a4115550b2c2f267b091719abda0141b0c281c0b812485d",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "air-defense",
+      "source": "research/mnb2/wiki/player/air-defense.md",
+      "sha256": "a1ba0a9508224927eddfffbcd332b03f438f8572e934b80c9e727e32e544d1e2",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "anti-tank-and-vehicles",
+      "source": "research/mnb2/wiki/player/anti-tank-and-vehicles.md",
+      "sha256": "3828f14613c0eda4f10b9048a912977338684b5870198985547053168dfe5fab",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "anti-tank-options",
+      "source": "research/mnb2/wiki/player/anti-tank-options.md",
+      "sha256": "7dd2de4ada3f8ff4401938e25a3fc7c871ce4dfff3c43771d9ad1ee4ad1eb4db",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "artillery",
+      "source": "research/mnb2/wiki/player/artillery.md",
+      "sha256": "0ebfa3f34f924254f08cbd8345fab14ad11a90d01d15412532be78ed87c327c1",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "bar",
+      "source": "research/mnb2/wiki/player/bar.md",
+      "sha256": "2255b7aa623995b0124aeb97b22973cc614159b16633f0432fc302403cd6fa2a",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "barbed-wire",
+      "source": "research/mnb2/wiki/player/barbed-wire.md",
+      "sha256": "d16941350b20ba04eb31ff395b7170b5899a17538910eca0a395d032b845b2c4",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "bazooka",
+      "source": "research/mnb2/wiki/player/bazooka.md",
+      "sha256": "86537bf631d9b61ad7ff7ffe7fee7d0108607aabfe0efac0e9c12b63b938c98f",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "blast-radius-and-scatter",
+      "source": "research/mnb2/wiki/player/blast-radius-and-scatter.md",
+      "sha256": "42341952fc9c9dadbc5eb544fdf4c9d21c53f4080fe3277a9e4542da445b10c6",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "blitz-events",
+      "source": "research/mnb2/wiki/player/blitz-events.md",
+      "sha256": "9977a33705736d6b0546871909b1d93fc8a98571f5103059e9639b86a29d80d6",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "bombing",
+      "source": "research/mnb2/wiki/player/bombing.md",
+      "sha256": "49813bbe4a0e28d94f7094bfdbcb5a10ccc15cc03db721221046e2de2f60254c",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "booby-trap",
+      "source": "research/mnb2/wiki/player/booby-trap.md",
+      "sha256": "b5722ca630192c675f1d15dfc24bbbc5832e52ed6d068db68b9a9162285583a2",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "brandenburg-and-infiltrators",
+      "source": "research/mnb2/wiki/player/brandenburg-and-infiltrators.md",
+      "sha256": "b2fc3b0e4d8e2f41fa1d7667b6add3ce8b60f7dceca0dca76322bac65a0090c2",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "breakthroughs",
+      "source": "research/mnb2/wiki/player/breakthroughs.md",
+      "sha256": "c37d8f3a0db7ab371d9ea8e33b77e4620f46c74585b9abf38ccaf18a9d0d7254",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "bunker",
+      "source": "research/mnb2/wiki/player/bunker.md",
+      "sha256": "c8b29ded8de9cd70c44de5aaa03c930ea73f655d7473db80c4f8556c9673402f",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "career-medals-and-ranks",
+      "source": "research/mnb2/wiki/player/career-medals-and-ranks.md",
+      "sha256": "f4d69da19dc1f67f1b7d7694929d4edc03ea804bb024dd01936da5d240689999",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "career-stat-bonuses",
+      "source": "research/mnb2/wiki/player/career-stat-bonuses.md",
+      "sha256": "4f693ab838d4470130cc663ff8ecaf39725fcc8da36e9f107aab424d8684478e",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "changed-tactics",
+      "source": "research/mnb2/wiki/player/changed-tactics.md",
+      "sha256": "480b2bd43a95d655096f7b89997d9619a7f7b364008efc22738bccd9ef70e264",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "close-air-support",
+      "source": "research/mnb2/wiki/player/close-air-support.md",
+      "sha256": "ceab315e64cfbd76763824ed3e4129aa17c657d48722cea03958b8c413891547",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "close-combat-and-bayonets",
+      "source": "research/mnb2/wiki/player/close-combat-and-bayonets.md",
+      "sha256": "514aa11989cf035ef1c95c24b95308a45eccec9976f50d2191501a0fefebb70f",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "collateral-damage",
+      "source": "research/mnb2/wiki/player/collateral-damage.md",
+      "sha256": "74c08d7d6da4d5894a9a07c7a82fd58adce3b2ef3034dd5eeeb2d35c2f2c0bf4",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "combat-issues",
+      "source": "research/mnb2/wiki/player/combat-issues.md",
+      "sha256": "a0fc64b0016ff3fbc05e3b80be14e458de4e8225a8f347364e435bd99aa6436b",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "combat-leadership",
+      "source": "research/mnb2/wiki/player/combat-leadership.md",
+      "sha256": "1992a03a89593266f8c449d278f4a83170fd5b1ef6d303ce35ad2719cdc059cb",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "combat-results",
+      "source": "research/mnb2/wiki/player/combat-results.md",
+      "sha256": "52ea711a06a6a4af8b016ed1f5121f9266d6e4321b1e3fd7c99e13b7f960df23",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "concealment",
+      "source": "research/mnb2/wiki/player/concealment.md",
+      "sha256": "9474f80ca29de2ae7d356d76acb3a7732f51e4a6e83c0cab30cbe4e58fa88bef",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "construction",
+      "source": "research/mnb2/wiki/player/construction.md",
+      "sha256": "109a48c51a7232162e94f76c3132947979254ee95b66d2af437e535b9db23660",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "controls",
+      "source": "research/mnb2/wiki/player/controls.md",
+      "sha256": "1101663011d082d0ae697e8f032ea9491c1267d2ff2dac8185fe3487b4f17173",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "crates",
+      "source": "research/mnb2/wiki/player/crates.md",
+      "sha256": "9dd5623d414f2d52e834aad840d4c8cb71cee8e749504a82d40f126bd461ac65",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "crewman",
+      "source": "research/mnb2/wiki/player/crewman.md",
+      "sha256": "b2bf2b860b0d5aaf5c27dd8b33106c5b696bb029a3e6bbfa920fd1dcdd003c4e",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "defenses",
+      "source": "research/mnb2/wiki/player/defenses.md",
+      "sha256": "7c2c916aa55d219f1010ebc8097c9361677357f6d15d49ccdfa4cd135904049e",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "deployment-gifts",
+      "source": "research/mnb2/wiki/player/deployment-gifts.md",
+      "sha256": "fbd94c7dddb808bb94edea8112b2662cc45cae6a43fdc901587aeb272c2909f8",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "deployments",
+      "source": "research/mnb2/wiki/player/deployments.md",
+      "sha256": "23102d0d1b42340ffab56f81d2079945eb2aa7c952f470264373b7240d9f9ce0",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "duds",
+      "source": "research/mnb2/wiki/player/duds.md",
+      "sha256": "366512cc3d99e0cca67b413e73dcbf2806ec6cf8320c8896dbd687b109282c9c",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-aircraft",
+      "source": "research/mnb2/wiki/player/enemy-aircraft.md",
+      "sha256": "6a8fcf995cd464c561e7c70665595477d4cf20cc1d94df6323912c2207a814f7",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-flamethrower",
+      "source": "research/mnb2/wiki/player/enemy-flamethrower.md",
+      "sha256": "a5166eaff5ad7cc4792207a9b0bd56d54ad1ec574e6f5f8bb82f642ea4c8aa7c",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-grenades",
+      "source": "research/mnb2/wiki/player/enemy-grenades.md",
+      "sha256": "ca2a36c06c81fc19dd38359577155194857cd2dc41d7dcbbf6fc2fc1d5b3155e",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-grenadier",
+      "source": "research/mnb2/wiki/player/enemy-grenadier.md",
+      "sha256": "6aa71ab79c31bdb7579a7c8746da4a02a54fc90b4bf600c577344eff0297c9fc",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-guide",
+      "source": "research/mnb2/wiki/player/enemy-guide.md",
+      "sha256": "e38a132520dd6fa97207117a6589d37fe6df6847832082b9553ab3869c78dfa8",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-jeep-and-halftrack",
+      "source": "research/mnb2/wiki/player/enemy-jeep-and-halftrack.md",
+      "sha256": "5789d949b0d75ee68eebb5c9b6cfe1e4766197ae27148904ab6d258cd77e9cbe",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-machine-gunner",
+      "source": "research/mnb2/wiki/player/enemy-machine-gunner.md",
+      "sha256": "2613075a91276f0478deff5a729cf4889b8e795fd2d0888da852e2d582527f60",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-mortar",
+      "source": "research/mnb2/wiki/player/enemy-mortar.md",
+      "sha256": "4fc4ed6096d216025260c68ac7a2743a3636d428423fc28d05dd4d6959b0449c",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-motorcycle",
+      "source": "research/mnb2/wiki/player/enemy-motorcycle.md",
+      "sha256": "46fe8d6fe852f00ba5aef2d0434c2c40076f559101b60cab81489311e7e415c8",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-mounted-weapons",
+      "source": "research/mnb2/wiki/player/enemy-mounted-weapons.md",
+      "sha256": "b68080e44596f1006785b5fbc45caaff2a809de781475a040162780aeafb0118",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-paratroopers",
+      "source": "research/mnb2/wiki/player/enemy-paratroopers.md",
+      "sha256": "9d575b6a3bb515d014109649b42441932d52b21261ea36bca21b9ac5f5328660",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-pioneer",
+      "source": "research/mnb2/wiki/player/enemy-pioneer.md",
+      "sha256": "a49cbe83ffae8a56a8f5a996e3c60478c3e6704aa200d1fe47117a3e1dda7951",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-regular-and-jugend",
+      "source": "research/mnb2/wiki/player/enemy-regular-and-jugend.md",
+      "sha256": "b23621e4901452ab70e5286fa3de5e228663ca7512ae31db45401346ee033c98",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-rocket-soldier",
+      "source": "research/mnb2/wiki/player/enemy-rocket-soldier.md",
+      "sha256": "59627c12f6af844ec664a8e897c090e3259d0220a564f2ca4d71d59514f89c6e",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-scout",
+      "source": "research/mnb2/wiki/player/enemy-scout.md",
+      "sha256": "28c84b0378d701b8a20e7b593f7da19f3806afc7797d5585b30821e23f93a35f",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-stats",
+      "source": "research/mnb2/wiki/player/enemy-stats.md",
+      "sha256": "45aebea01f6210ba1272626ac4c000147511b555d843ffd89a95ed0508cd308d",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-tanks",
+      "source": "research/mnb2/wiki/player/enemy-tanks.md",
+      "sha256": "bcefe6abfc127767580be973c2500bd0f8ea1ae43c567b2b947b7b48db1a6d4f",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-truck",
+      "source": "research/mnb2/wiki/player/enemy-truck.md",
+      "sha256": "537cd148c3b9a037c1b2e4e24fedeed5c0ce2dd5130283b115068df04fd73233",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "enemy-vehicles",
+      "source": "research/mnb2/wiki/player/enemy-vehicles.md",
+      "sha256": "b08ce1762b79d77751549b42035f84fc4509f04d9fc626821f56da2e29ec7d98",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "engineer",
+      "source": "research/mnb2/wiki/player/engineer.md",
+      "sha256": "ef27a9d160fe19ab9f630dd05f6a9a932d538b2c59f53fa45881da031b970418",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "explosion-damage-stages",
+      "source": "research/mnb2/wiki/player/explosion-damage-stages.md",
+      "sha256": "0f65eda8a0bc80cd75750f64934a2ae10b393e262db5c0d42c7fd286e58edc51",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "explosions-and-fortifications",
+      "source": "research/mnb2/wiki/player/explosions-and-fortifications.md",
+      "sha256": "a3f6de3bc71f27298d80feb4f288c9dcd8caf68ef538a8fef52b43a7d468ce75",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "explosives",
+      "source": "research/mnb2/wiki/player/explosives.md",
+      "sha256": "82de2b4fc326e871a95481aa086890369f330765a6d7ae0cae1238acf3a03aef",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "field-hq",
+      "source": "research/mnb2/wiki/player/field-hq.md",
+      "sha256": "7bf5dace94c83c41653b4feaf5d4f32bc2fa1bf426623a4a5ac9c6caa7b72720",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "fifty-caliber",
+      "source": "research/mnb2/wiki/player/fifty-caliber.md",
+      "sha256": "ba72f9d61a15d275e1e9ed638962b4764cbb29692c18533ab50b2ca6b5d27ac8",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "fire-and-burning",
+      "source": "research/mnb2/wiki/player/fire-and-burning.md",
+      "sha256": "6d7acad0fb6ee70b38485c3a360fe90f6575f113917719b2fcc3910fb1622426",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "flak38",
+      "source": "research/mnb2/wiki/player/flak38.md",
+      "sha256": "1aba132bb8149d3cb6cfe5c7bbf08b6ca2e6eda925fdfb00a09817bdc9b6f863",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "flakpanzer",
+      "source": "research/mnb2/wiki/player/flakpanzer.md",
+      "sha256": "91bd6a7803ff09d5910e2cf476dcc5014994accf85cb22d2e009dd91a7cd9eb9",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "flamethrower",
+      "source": "research/mnb2/wiki/player/flamethrower.md",
+      "sha256": "8388402ae299ff3927fe9af035da488927e6e7051a2e459e5cf95901dab79c09",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "free-orders-and-refunds",
+      "source": "research/mnb2/wiki/player/free-orders-and-refunds.md",
+      "sha256": "c5c75fcf05b3f9c5df7e7c5252ce05af61e44fd7c30f51f042fa2616253e3dc7",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "french-resistance",
+      "source": "research/mnb2/wiki/player/french-resistance.md",
+      "sha256": "ee2c4b348f44bdf7f964ceecbb3e5cb595ef6547bd720b634346cfa8a93e727b",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "german-officer",
+      "source": "research/mnb2/wiki/player/german-officer.md",
+      "sha256": "fa477a7b19498217224f81b6a1bf6bce12bc28756f72d92dbf6da367a4eeeebb",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "german-sniper",
+      "source": "research/mnb2/wiki/player/german-sniper.md",
+      "sha256": "678103ba804bb1dbac189d0ec910d2e6dbbfefe825b9f9e58b860a59c6c919ca",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "goliath",
+      "source": "research/mnb2/wiki/player/goliath.md",
+      "sha256": "3e780b600a0886715b6c09809c7aad5c9673f3b4994dbf9c110c9d86aa5a7599",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "grease-gun",
+      "source": "research/mnb2/wiki/player/grease-gun.md",
+      "sha256": "625b8396341e8b1acb2af586b041066c3cf36aa36b2555b45495a82175d580df",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "grenades",
+      "source": "research/mnb2/wiki/player/grenades.md",
+      "sha256": "e2933e682e7e48304025337985a214dbe1d064e35301c4ba4591384175115a56",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "halftrack-hospital",
+      "source": "research/mnb2/wiki/player/halftrack-hospital.md",
+      "sha256": "3aac317295753a652f4fd159cdc16a1d1fc4a4bae14175e3515ef35a5c3282e0",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "halftrack-weapons",
+      "source": "research/mnb2/wiki/player/halftrack-weapons.md",
+      "sha256": "39fa6d2a1c90019dcd23dd594b31aee27725ba430b2671028e9fb7fd8e67a8b7",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "halftrack",
+      "source": "research/mnb2/wiki/player/halftrack.md",
+      "sha256": "cbbc302a4bf1721cfcf818cf082ba8f2db5004adefaec2976f5b5534eb9407f8",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "healing-kit",
+      "source": "research/mnb2/wiki/player/healing-kit.md",
+      "sha256": "5ae755bdbb79e9ef1814896d7fd07c6f459c314763e8d0958f9c3387988f3615",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "heroism",
+      "source": "research/mnb2/wiki/player/heroism.md",
+      "sha256": "8ddfcdb07435766b94919cf34050477f8cf1acf8e00a1b576f0f89a45cae0970",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "hold-fire",
+      "source": "research/mnb2/wiki/player/hold-fire.md",
+      "sha256": "1d3ad8f97bacdc3af3f8efaaef3fc5e74c6e447b76edef6e1084737ef33ec97b",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "how-shooting-works",
+      "source": "research/mnb2/wiki/player/how-shooting-works.md",
+      "sha256": "ecc3e53227c696a5c2c36f4e5fcf74460c6578716526e0047b8bb9c5a53e40cb",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "improvised-wall",
+      "source": "research/mnb2/wiki/player/improvised-wall.md",
+      "sha256": "ef169ef515d6e6653ba526fadc4a6610590bc234c247f2ae036b9385c43bd89c",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "jeep",
+      "source": "research/mnb2/wiki/player/jeep.md",
+      "sha256": "b0e4f1f8d9b6f65d6f884492824c5bea7b30e038ffd885087d37030365b15a23",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "line-of-sight",
+      "source": "research/mnb2/wiki/player/line-of-sight.md",
+      "sha256": "2eedf15caaf7d71bb55a7dc2478b8184a7b6533fa6767f066c5a5dd144085219",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "m1-carbine",
+      "source": "research/mnb2/wiki/player/m1-carbine.md",
+      "sha256": "ed525be2c2b8647afa0b850c9cdaf7a79d5bceb4897f09c20e0346b881acc7ad",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "m1-garand",
+      "source": "research/mnb2/wiki/player/m1-garand.md",
+      "sha256": "19266c1bd6e8ca0370c4f34dcab5f35a0089632b72b0b381ab13926bfe7fb764",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "m3-at-gun",
+      "source": "research/mnb2/wiki/player/m3-at-gun.md",
+      "sha256": "2662e94fc58a9debababa6667418d9dacf8fae2c992b91ac65bd4cefceca8931",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "machine-gunner",
+      "source": "research/mnb2/wiki/player/machine-gunner.md",
+      "sha256": "e318818bd093b730cba2a3abfc9ea6f7a6746b35debd665af2daa6c1a01e2aca",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "mechanic",
+      "source": "research/mnb2/wiki/player/mechanic.md",
+      "sha256": "c68bc7da64151ef101f76a3e70580744b4bfda8f39c67cec449fa605f05373eb",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "mechanics-at-a-glance",
+      "source": "research/mnb2/wiki/player/mechanics-at-a-glance.md",
+      "sha256": "cce164571a832f740c425644965a6999633951e4e321a642f933b558438c2be5",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "medic",
+      "source": "research/mnb2/wiki/player/medic.md",
+      "sha256": "91d660f8e289a8eae3b022b32bfbc66533a7815a5d35c4ccc48590b1a6f3bcbe",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "mines",
+      "source": "research/mnb2/wiki/player/mines.md",
+      "sha256": "687918252d6502e57935ce338d2a20607cf60cdc7d8209f99c6d49533d0c6427",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "morale-boost",
+      "source": "research/mnb2/wiki/player/morale-boost.md",
+      "sha256": "97b7c37600bc3fda4421c8f290934d4f761e6678d0ccf28db706090f456c1a72",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "morale",
+      "source": "research/mnb2/wiki/player/morale.md",
+      "sha256": "44dfecd25a71711d2d414b75558cd9ea68d82afc88b9fde27720c8156905e328",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "mortar-pit",
+      "source": "research/mnb2/wiki/player/mortar-pit.md",
+      "sha256": "2e8a419783935cbd463dd836bc958379bf77f64a1665daf19e5e78f7089d54a4",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "mortar",
+      "source": "research/mnb2/wiki/player/mortar.md",
+      "sha256": "e1f58a04933d60e7b8253efdec6df60f7354e2374e3c5e4fc3d4a1add81399c8",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "naval-and-counter-artillery",
+      "source": "research/mnb2/wiki/player/naval-and-counter-artillery.md",
+      "sha256": "96a7de2e7e84280e8f80945b10955f284f6513e91f6f38580042c48c8ab7b65c",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "nebelwerfer",
+      "source": "research/mnb2/wiki/player/nebelwerfer.md",
+      "sha256": "86d77a1bd3fe3fe88dce6982448e5f16fbf67aa999bd4de7590da1224dee0f3a",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "observed-rifle-sequence",
+      "source": "research/mnb2/wiki/player/observed-rifle-sequence.md",
+      "sha256": "b7363a55369e5bdcf056b45654731233e9a6c0df61014fefa01461b59d931440",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "off-map-88",
+      "source": "research/mnb2/wiki/player/off-map-88.md",
+      "sha256": "e2d199c7b286bc34b2591d253975a908b92eb244e14dc16593ae45ad469ce18b",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "officer",
+      "source": "research/mnb2/wiki/player/officer.md",
+      "sha256": "6fb88a63b896e654c245f5cc75c245ea3dad342ed1d5258b0a4c1b19910fb1a6",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "orders",
+      "source": "research/mnb2/wiki/player/orders.md",
+      "sha256": "f679b42ca01fb89083663e2dfe1926c557eaf3c73634ce4355870516d84baaf9",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "pak-38",
+      "source": "research/mnb2/wiki/player/pak-38.md",
+      "sha256": "0b31d309c4f9ce99babbbad78517e2d0b6e8a8b5d820aa483ca1182594cf71ae",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "palisade",
+      "source": "research/mnb2/wiki/player/palisade.md",
+      "sha256": "8364ae723c948b28eac1a40ccf2fedfef13fdae74e06d2e8104d15ea6c12668d",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "paratroopers",
+      "source": "research/mnb2/wiki/player/paratroopers.md",
+      "sha256": "786c12617b1101421ee278ae6dc621a56dd856f3ef2f88982b2a02f4e9392dfe",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "pillbox",
+      "source": "research/mnb2/wiki/player/pillbox.md",
+      "sha256": "685e6a7e86655afdad89a02933fe2a8bc7f6e2ed1a65bcc3ef07a82437bfc3a0",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "pilot-recovery",
+      "source": "research/mnb2/wiki/player/pilot-recovery.md",
+      "sha256": "29f430d4ad1b59dffb2dd0617a7ec64210dc9dc16e3c59790c3e13135af7de97",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "pistol",
+      "source": "research/mnb2/wiki/player/pistol.md",
+      "sha256": "6de3c481979e41c74782b52a01c3bb33f6f754d0b84c1383c5f00011f69b6c86",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "progression",
+      "source": "research/mnb2/wiki/player/progression.md",
+      "sha256": "fdaa00c30d052a1e8dadda4754c0c6d2d06aecf511e1cae967b3d957c97fde8a",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "protection-flag",
+      "source": "research/mnb2/wiki/player/protection-flag.md",
+      "sha256": "526aac9888bf5a038189f38f6b53f637323768115dd6ac0006ed9cec327fe615",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "purchase-budgets",
+      "source": "research/mnb2/wiki/player/purchase-budgets.md",
+      "sha256": "51db7629c72487bf60a08bf23ddfaaec7b231f2255bf21593591e3a7cd27822c",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "radar",
+      "source": "research/mnb2/wiki/player/radar.md",
+      "sha256": "d628cb4671ebcb162319dbe048bc05fdbddbfa641faa5a2aae0e4f7cde08d328",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "radio-antenna",
+      "source": "research/mnb2/wiki/player/radio-antenna.md",
+      "sha256": "3a8fc5e51ca92e8f0f2bd0aac8f40430f1ffaddd89b62e2e7310711571070ad6",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "ranger-training",
+      "source": "research/mnb2/wiki/player/ranger-training.md",
+      "sha256": "193a567ecd31afc296b1157e1121653864eb9087d35f8ea680b99c60b14dae4f",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "reading-stats",
+      "source": "research/mnb2/wiki/player/reading-stats.md",
+      "sha256": "6877e64438b182a1b441092912a14dc67c6817017b5f4af0082a2366604ca9fc",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "index",
+      "source": "research/mnb2/wiki/player/README.md",
+      "sha256": "b7ab3fe2d736d0b03830372531440ef17032c66c6d3bfaa3c45d4dd1e9f21689",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "recruitment-limits",
+      "source": "research/mnb2/wiki/player/recruitment-limits.md",
+      "sha256": "3cf93200a5dd555fe91b6641bc2ca64fe8828fede19f7be0ac39d0e83d1f0950",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "recruitment",
+      "source": "research/mnb2/wiki/player/recruitment.md",
+      "sha256": "577bb6c4defa2b6117adf4a7437e51f5241e30f497d0b4566e00a21dd697ed2d",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "regular-soldier",
+      "source": "research/mnb2/wiki/player/regular-soldier.md",
+      "sha256": "70e6e3fb11465cd3bd8c19b5d499a0fa6455bcf9a5b6e15e90774890dadae495",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "repair-crew-and-reload",
+      "source": "research/mnb2/wiki/player/repair-crew-and-reload.md",
+      "sha256": "cb304dc66264f1c379dd95c5b5df4cf01e5b9a9e8cd0ed632f3cecdef3c47868",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "retargeting-orders",
+      "source": "research/mnb2/wiki/player/retargeting-orders.md",
+      "sha256": "eca93d9aa7aeaac44824fbfc6ca36a38ddbb87bd760daba11fb2b5806cbf8f37",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "rifle-skill",
+      "source": "research/mnb2/wiki/player/rifle-skill.md",
+      "sha256": "6a02f2969be93a16adcdbff8ef4aeb4edc647c946fb6482c56d405d335d4f72a",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "rocket-launcher",
+      "source": "research/mnb2/wiki/player/rocket-launcher.md",
+      "sha256": "46414d57ac5c7a8a4507aaf8a020b592c69a5fac25d0e4c5e7d0e33a30584af0",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "sabotage",
+      "source": "research/mnb2/wiki/player/sabotage.md",
+      "sha256": "1986f79e97c359b70699fe16e34f0f3f0043134f11a5a8e5a6cc666dacf774eb",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "sandbags",
+      "source": "research/mnb2/wiki/player/sandbags.md",
+      "sha256": "b39b9aab7e60a7db50bd8daa548b14acf38c0d6a55c4c17c7cd7994729958210",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "sarge",
+      "source": "research/mnb2/wiki/player/sarge.md",
+      "sha256": "7195ba4b8659cd1ce6d09bed7514068500c557089a61ce70678d43234eb2d990",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "scenery-and-cover",
+      "source": "research/mnb2/wiki/player/scenery-and-cover.md",
+      "sha256": "7cb089651ff30fa934a481815ab6c7d1f2e40d9d18290a381b8c0c29bfa67eab",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "score-and-career-points",
+      "source": "research/mnb2/wiki/player/score-and-career-points.md",
+      "sha256": "ea06656f850795d80f0c5251f5abe100886df452c951ddbecfb51a9c79ea8a8e",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "scout",
+      "source": "research/mnb2/wiki/player/scout.md",
+      "sha256": "bcbbe0257595b4f6fb127ce0ca42e500924befbcd1db85abc1dd2d115878c0ef",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "sd-kfz-222",
+      "source": "research/mnb2/wiki/player/sd-kfz-222.md",
+      "sha256": "3c57c2e928944f0c8300f4fd32e5870ba94b31d7494fbff14b8807c45cea904d",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "sherman",
+      "source": "research/mnb2/wiki/player/sherman.md",
+      "sha256": "49be390c4971bd0566a67ea063dda35e21249d657e079b08b7bbd3d7de2c4d47",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "shotgun",
+      "source": "research/mnb2/wiki/player/shotgun.md",
+      "sha256": "00a495b5ee63536855febd0bd5db8e73c86bb05875d599493ab803a90101c5c6",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "signaller",
+      "source": "research/mnb2/wiki/player/signaller.md",
+      "sha256": "9bbb158de7f38394c13e7daf49e69a759fa6a98c313bb0c9521dfde01c7e8f79",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "situation-report",
+      "source": "research/mnb2/wiki/player/situation-report.md",
+      "sha256": "aef137684719c5b3bc864126b036f81f03dd1207dd682a6e94ecda275f21d18d",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "small-arms-against-vehicles",
+      "source": "research/mnb2/wiki/player/small-arms-against-vehicles.md",
+      "sha256": "1b6ed6bffac515bf5c24f3973cc3973ea2b442bb71c76b4b12987ea68486c14e",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "smoke",
+      "source": "research/mnb2/wiki/player/smoke.md",
+      "sha256": "c659bc8a97cd99c66edf10cfc1d38c1dfb63433a8a1710f66309450a98631972",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "sniper-rifle",
+      "source": "research/mnb2/wiki/player/sniper-rifle.md",
+      "sha256": "ee12c0d1bc462d532715fc2ed1c261757496cf5c864c35cbebfe96258bff4a0f",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "sniper",
+      "source": "research/mnb2/wiki/player/sniper.md",
+      "sha256": "a718eda7f1ca0c189586740bd111873e1b61a184ee63f4ab8f4cc3bda82002b4",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "spec-ops",
+      "source": "research/mnb2/wiki/player/spec-ops.md",
+      "sha256": "6f45ab9dacd6c1ffc16fc10e0cbedf58369e844ff6e336031cdeddecc1b2bb3f",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "specialists-under-cover",
+      "source": "research/mnb2/wiki/player/specialists-under-cover.md",
+      "sha256": "3c47c491ec6a2afc3439aeb2829910da9c0dbb1d18fdb4165d43faf863b03029",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "springfield",
+      "source": "research/mnb2/wiki/player/springfield.md",
+      "sha256": "69c3047454cf0965bb104568222ad06f508672eebe7534bfde8218d335fc50d4",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "ss-infantry",
+      "source": "research/mnb2/wiki/player/ss-infantry.md",
+      "sha256": "4c6fb6ef11bb0bde5cb5dcd7281b91ae9f964976c5305a9084e151c2afa8877d",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "starting-checklist",
+      "source": "research/mnb2/wiki/player/starting-checklist.md",
+      "sha256": "04d193676437207c6c7c89925aeb70d5b24ff13a78b80e78eeb001dd2206b682",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "sticky-bomb",
+      "source": "research/mnb2/wiki/player/sticky-bomb.md",
+      "sha256": "33a87e3a1e4802c786c30bb62c77f8e2485892b3275582acd53e270bbc093e72",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "strategy-and-versions",
+      "source": "research/mnb2/wiki/player/strategy-and-versions.md",
+      "sha256": "7a691695b270a218116711e1d4cb617139c512a0b0e79865d6aadf275d5ba759",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "support-and-economy-awards",
+      "source": "research/mnb2/wiki/player/support-and-economy-awards.md",
+      "sha256": "6f77da97b172f119ce2dfbd8a9ce2d5afb6c09c235f671055488265b02b6f5bb",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "support",
+      "source": "research/mnb2/wiki/player/support.md",
+      "sha256": "fed64cfa08f00a7e948653069978874eb5c7a01e08e8f43d117eba940ea653e2",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "tactical-points",
+      "source": "research/mnb2/wiki/player/tactical-points.md",
+      "sha256": "0196a93a88e6a79bb9fb7f0f20e7b22357f541f278b7b40253c98f01f752062c",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "taunt",
+      "source": "research/mnb2/wiki/player/taunt.md",
+      "sha256": "b8d32211df83273dc1e42450bcd5ad7e0dc96b6e96a44fc74ca3c9c8cf20d473",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "thompson",
+      "source": "research/mnb2/wiki/player/thompson.md",
+      "sha256": "655c63d9faaca3f69b0ff1d090ae43023e304e914bbbda632ff8046376457a54",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "tnt",
+      "source": "research/mnb2/wiki/player/tnt.md",
+      "sha256": "506705cfc90c5a7d086a286c15acb68f046e27c276f5c53eea48698543dae6ed",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "training-and-equipment",
+      "source": "research/mnb2/wiki/player/training-and-equipment.md",
+      "sha256": "99634d517c6d80843f43d9031fc4a711bd651fd2be83950fdf114778d2de24bd",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "trench",
+      "source": "research/mnb2/wiki/player/trench.md",
+      "sha256": "71b2ec8cc2048ade0d754106c1e85a8ade89612ca54b22ea6817ba6edda5e14a",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "unfair-attacks",
+      "source": "research/mnb2/wiki/player/unfair-attacks.md",
+      "sha256": "5dff64454c2dc43dd2063854dbf5014d89a32874a9a1ce4af89e43641f3a0b90",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "unit-lifecycle",
+      "source": "research/mnb2/wiki/player/unit-lifecycle.md",
+      "sha256": "4c0bfe7d0df2c23fa38494a262ed05cc3efd8584d2b0eec83205c2419ca2b333",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "v1-rocket",
+      "source": "research/mnb2/wiki/player/v1-rocket.md",
+      "sha256": "73cc25c7719c1c67d663e068f7b8ea68aa05be8404acb351ff8d3f43b1982222",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "vehicle-damage-and-crew",
+      "source": "research/mnb2/wiki/player/vehicle-damage-and-crew.md",
+      "sha256": "7919047991807dfbb20a11ba49946600fd953458609b1d596de11844080fe0d2",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "vehicles-and-emplacements",
+      "source": "research/mnb2/wiki/player/vehicles-and-emplacements.md",
+      "sha256": "72bbcff81a670695c8fe089214836047a21f33f9c1bbf2078758e7975a873f03",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "volkssturm",
+      "source": "research/mnb2/wiki/player/volkssturm.md",
+      "sha256": "3474449ccb957d639a61f7bd5637d0ac15e74f5c47dac9ddc33e1497a251712e",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "waves",
+      "source": "research/mnb2/wiki/player/waves.md",
+      "sha256": "5da82e8fc32f02735a7529c9608d141db10a94a0186f72fcf00c7e0520081c65",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "weapon-comparison",
+      "source": "research/mnb2/wiki/player/weapon-comparison.md",
+      "sha256": "ed735a0a311e87dad6db8d8fed932745a8d50ceecc9c00224e6951bc87cbaeec",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "wespe",
+      "source": "research/mnb2/wiki/player/wespe.md",
+      "sha256": "e806236e4a444a59088d08d07fb411bfa81893dfcbc205c7f0db0155181d71da",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "why-soldiers-stop-shooting",
+      "source": "research/mnb2/wiki/player/why-soldiers-stop-shooting.md",
+      "sha256": "73ef46fe918ebb7bcd71bd75f82ef4c4a5a7c27989b5cee896c94e5068c3e24c",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "withdrawal-and-mission-end",
+      "source": "research/mnb2/wiki/player/withdrawal-and-mission-end.md",
+      "sha256": "89b01bdd588459d527d8707f83c46faaab2c426c8c84e819c5d61982121f7501",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "wounded-and-rescued",
+      "source": "research/mnb2/wiki/player/wounded-and-rescued.md",
+      "sha256": "7b2760b9149b4dc60815fbd6f586c57a80a9b19f8635a6706b3dfa718c40e189",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "xmas-ribbon",
+      "source": "research/mnb2/wiki/player/xmas-ribbon.md",
+      "sha256": "67ff900e2bd63a044024cf1b2c41c58b9970355d26454964cb7ced02cb7cc60c",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "zombies",
+      "source": "research/mnb2/wiki/player/zombies.md",
+      "sha256": "5b17585d856f38c53c6c914c4b1491184d33390924948e3c13f67437a1a1ab79",
+      "label": "Project-authored historical player reference; preserve each page's selected-version and source limitations. Referenced original media is not admitted."
+    },
+    {
+      "wiki": "player",
+      "slug": "editions",
+      "source": "research/mnb2/wiki/player/editions.md",
+      "sha256": "d273cd76985223391a6b0851e2f008f49b7cb08a083fd9dcd94eafed80fc8ec6",
+      "label": "Original project-authored player guide; preserve stated historical/modern edition and evidence limits. Only exact admitted instructional diagrams are distributed."
+    },
+    {
+      "wiki": "player",
+      "slug": "evidence-and-method",
+      "source": "research/mnb2/wiki/player/evidence-and-method.md",
+      "sha256": "6eb00ffc920e4ee3a70db1553f491002f1c2f4c158f2b67c2e5f8ce37d1b2a7f",
+      "label": "Original project-authored player guide; preserve stated historical/modern edition and evidence limits. Only exact admitted instructional diagrams are distributed."
+    },
+    {
+      "wiki": "player",
+      "slug": "menu-reference",
+      "source": "research/mnb2/wiki/player/menu-reference.md",
+      "sha256": "a6168e19d01e5e30006eeae66bf9b2d8e4cdb44539d267ceed26b783eb5c3d6f",
+      "label": "Original project-authored player guide; preserve stated historical/modern edition and evidence limits. Only exact admitted instructional diagrams are distributed."
+    },
+    {
+      "wiki": "player",
+      "slug": "instructional-visuals",
+      "source": "research/mnb2/wiki/player/instructional-visuals.md",
+      "sha256": "ce4346f050063bc5ce4f0da7b9fd50be9e67db4a96599b803ab4278e9847aef0",
+      "label": "Original project-authored player guide; preserve stated historical/modern edition and evidence limits. Only exact admitted instructional diagrams are distributed."
+    },
+    {
+      "wiki": "player",
+      "slug": "strategy-studies",
+      "source": "research/mnb2/wiki/player/strategy-studies.md",
+      "sha256": "37e9b4abe1e2e4a83851900ec3f775e3a3e28d513027f60c016017e1639d7757",
+      "label": "Original project-authored player guide; preserve stated historical/modern edition and evidence limits. Only exact admitted instructional diagrams are distributed."
+    },
+    {
+      "wiki": "player",
+      "slug": "beginner-opening",
+      "source": "research/mnb2/wiki/player/beginner-opening.md",
+      "sha256": "84c5e82861ab753310c7e522679e73b2c33a899d209241f269e98ec7ca5a74db",
+      "label": "Original project-authored player guide; preserve stated historical/modern edition and evidence limits. Only exact admitted instructional diagrams are distributed."
+    },
+    {
+      "wiki": "player",
+      "slug": "topic-index",
+      "source": "research/mnb2/wiki/player/topic-index.md",
+      "sha256": "1a6c520de389563b1781164d949f070bba695c89f4a13fb47ece7f22e2f1d8f9",
+      "label": "Original project-authored player guide; preserve stated historical/modern edition and evidence limits. Only exact admitted instructional diagrams are distributed."
+    },
+    {
+      "wiki": "player",
+      "slug": "whats-new",
+      "source": "research/mnb2/wiki/player/whats-new.md",
+      "sha256": "144a232cd797a20c91f61c8ef65cb6018143a3e10792936bb27ba320cb284738",
+      "label": "Original project-authored player guide; preserve stated historical/modern edition and evidence limits. Only exact admitted instructional diagrams are distributed."
+    },
+    {
+      "wiki": "dev",
+      "slug": "index",
+      "source": "orchestration/combined_host/wiki_sources/dev-index.md",
+      "sha256": "968ec5e97d955e0ebbb82bcd589d7ebba9d7eb9160171816de6fb615b06fef72",
+      "label": "Public bundle placeholder; no developer documents are distributed."
+    }
+  ]
+}

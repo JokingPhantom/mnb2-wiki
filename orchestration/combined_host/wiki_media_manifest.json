@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "media": [
+    {
+      "filename": "interface-guide-822e43df39ebfcd35bf1b881876091f4b846e1dfbc65a9f8b206037e9a39f983.svg",
+      "source": "research/mnb2/wiki/player/media/interface-guide-822e43df39ebfcd35bf1b881876091f4b846e1dfbc65a9f8b206037e9a39f983.svg",
+      "sha256": "822e43df39ebfcd35bf1b881876091f4b846e1dfbc65a9f8b206037e9a39f983",
+      "mimetype": "image/svg+xml",
+      "credit": "Original project-authored instructional diagram, 2026-11-11. No imported game art.",
+      "rights": "original-project-diagram"
+    },
+    {
+      "filename": "battlefield-overview-b40ca5cd43fba3ceba66f83f9060e443dc82490679fc37cce713737c05797af1.svg",
+      "source": "research/mnb2/wiki/player/media/battlefield-overview-b40ca5cd43fba3ceba66f83f9060e443dc82490679fc37cce713737c05797af1.svg",
+      "sha256": "b40ca5cd43fba3ceba66f83f9060e443dc82490679fc37cce713737c05797af1",
+      "mimetype": "image/svg+xml",
+      "credit": "Original project-authored instructional diagram, 2026-11-11. No imported game art.",
+      "rights": "original-project-diagram"
+    },
+    {
+      "filename": "recognition-guide-970b5f1ab2838ddd4ea18bb2f53baf2c280a3fec24ff1e1aa24b4892a784d88b.svg",
+      "source": "research/mnb2/wiki/player/media/recognition-guide-970b5f1ab2838ddd4ea18bb2f53baf2c280a3fec24ff1e1aa24b4892a784d88b.svg",
+      "sha256": "970b5f1ab2838ddd4ea18bb2f53baf2c280a3fec24ff1e1aa24b4892a784d88b",
+      "mimetype": "image/svg+xml",
+      "credit": "Original project-authored instructional diagram, 2026-11-11. No imported game art.",
+      "rights": "original-project-diagram"
+    },
+    {
+      "filename": "cover-specialists-4d608109f03f5478e37ddf3aec886063a8885617411a503c60ac2b4d4ba0dcd1.svg",
+      "source": "research/mnb2/wiki/player/media/cover-specialists-4d608109f03f5478e37ddf3aec886063a8885617411a503c60ac2b4d4ba0dcd1.svg",
+      "sha256": "4d608109f03f5478e37ddf3aec886063a8885617411a503c60ac2b4d4ba0dcd1",
+      "mimetype": "image/svg+xml",
+      "credit": "Original project-authored instructional diagram, 2026-11-11. No imported game art.",
+      "rights": "original-project-diagram"
+    },
+    {
+      "filename": "failed-order-6b1ae26027154220480776cbace43d77229350e235e7ac40c0c8fb0db84f2aaf.svg",
+      "source": "research/mnb2/wiki/player/media/failed-order-6b1ae26027154220480776cbace43d77229350e235e7ac40c0c8fb0db84f2aaf.svg",
+      "sha256": "6b1ae26027154220480776cbace43d77229350e235e7ac40c0c8fb0db84f2aaf",
+      "mimetype": "image/svg+xml",
+      "credit": "Original project-authored instructional diagram, 2026-11-11. No imported game art.",
+      "rights": "original-project-diagram"
+    }
+  ]
+}
