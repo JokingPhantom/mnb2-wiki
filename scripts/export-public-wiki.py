@@ -59,6 +59,9 @@ async function search() {
   } catch { status.textContent = 'Search could not load. Use All articles below.'; }
 }
 input.addEventListener('input', search);
+// A deferred script can arrive after the user types or the browser restores a
+// previous query. Reconcile the current field as soon as listeners are attached.
+search();
 """
 
 
